@@ -1,4 +1,4 @@
-# dinstagram <img src="https://i.hizliresim.com/ugBqPW.png" width=25/>
+# dinstagram 🐍
 > easily download instagram images &amp; videos with your terminal using python
 
 ## node.js version
